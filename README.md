@@ -70,6 +70,7 @@ Other pipelines
 * [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [chrisquince/DESMAN](https://github.com/chrisquince/DESMAN) - De novo Extraction of Strains from MetAgeNomes.
+* [czbiohub/nf-bowtie](https://github.com/czbiohub/nf-bowtie) - Align reads to e.g. contigs using Bowtie and get counts of reads
 * [evanfloden/concTree](https://github.com/evanfloden/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
 * [evanfloden/lncRNA-Annotation-nf](https://github.com/evanfloden/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
 * [evanfloden/paraMSA](https://github.com/evanfloden/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
